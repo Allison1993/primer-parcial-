@@ -33,7 +33,10 @@
     array_push($libro["ficcion"], "hola");
 
     echo "<br>" . $libro["ficcion"][3];
+    
+    echo "<br>".$libro["ficcion"][3];
 
+     
     ?>
 
 </body>
