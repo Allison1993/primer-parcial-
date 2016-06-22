@@ -34,6 +34,7 @@
 
     echo "<br>" . $libro["ficcion"][3];
     
+    echo "<br>" . $libro["ficcion"][3];
     echo "<br>".$libro["ficcion"][3];
 
      
